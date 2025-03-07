@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="profile">Profile</string>
+    <string name="terms"><![CDATA[Terms & Conditions]]></string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="first_name">First Name</string>
+    <string name="email">name@gmail.com</string>
+    <string name="birth_date">DD-MM-YYYY</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="others">Others</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="nothree">C-Verde collects and processes personal information, such as your daily activities, energy usage, and travel habits, to calculate your carbon footprint. The information is stored securely and used solely for the purpose of improving your experience with the application.  Your data will not be shared with third parties without your consent, except as required by law.\n\nWe take reasonable steps to ensure your data is protected, but no system is completely secure. By using the app, you acknowledge the risks of data breaches.</string>
+    <string name="termsandcon"><![CDATA[TERMS & CONDITIONS]]></string>
+</resources>
